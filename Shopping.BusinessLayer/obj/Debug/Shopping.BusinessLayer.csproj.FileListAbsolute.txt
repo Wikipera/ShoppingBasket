@@ -1,0 +1,8 @@
+C:\Users\User1\source\Test\ShoppingBasket\Shopping.BusinessLayer\obj\Debug\Shopping.BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\User1\source\Test\ShoppingBasket\Shopping.BusinessLayer\obj\Debug\Shopping.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\User1\source\Test\ShoppingBasket\Shopping.BusinessLayer\bin\Debug\Shopping.BusinessLayer.dll
+C:\Users\User1\source\Test\ShoppingBasket\Shopping.BusinessLayer\bin\Debug\Shopping.BusinessLayer.pdb
+C:\Users\User1\source\Test\ShoppingBasket\Shopping.BusinessLayer\bin\Debug\Shopping.Common.dll
+C:\Users\User1\source\Test\ShoppingBasket\Shopping.BusinessLayer\bin\Debug\Shopping.Common.pdb
+C:\Users\User1\source\Test\ShoppingBasket\Shopping.BusinessLayer\obj\Debug\Shopping.BusinessLayer.dll
+C:\Users\User1\source\Test\ShoppingBasket\Shopping.BusinessLayer\obj\Debug\Shopping.BusinessLayer.pdb

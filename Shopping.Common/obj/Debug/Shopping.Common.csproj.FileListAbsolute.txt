@@ -1,0 +1,5 @@
+C:\Users\User1\source\Test\ShoppingBasket\Shopping.Common\bin\Debug\Shopping.Common.dll
+C:\Users\User1\source\Test\ShoppingBasket\Shopping.Common\bin\Debug\Shopping.Common.pdb
+C:\Users\User1\source\Test\ShoppingBasket\Shopping.Common\obj\Debug\Shopping.Common.csproj.CoreCompileInputs.cache
+C:\Users\User1\source\Test\ShoppingBasket\Shopping.Common\obj\Debug\Shopping.Common.dll
+C:\Users\User1\source\Test\ShoppingBasket\Shopping.Common\obj\Debug\Shopping.Common.pdb
